@@ -5,11 +5,11 @@
 <h1 align="center">
   <img src="https://files.catbox.moe/8rk90e.png" width="64" height="64" alt="NOX PRIMEEE">
   <br>
-  DEV NOX INC
+  NoxCoreDev 
 </h1>
 
 <p align="center">
-  <strong>Othman · DEV</strong><br>
+  <strong>Othman · NoxCoreDev</strong><br>
   Bots · Sites web · Tutoriels
 </p>
 
@@ -17,13 +17,13 @@
   <a href="https://github.com/NoxCoreDev">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@NoxPrimeeeinc">
+  <a href="https://www.youtube.com/@NNoxCoreDev">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VbDIn9u47Xe6gf8JxP3c">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/NoxPrimeeeinc==">
+  <a href="https://www.instagram.com/@NoxCoreDev==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -48,7 +48,7 @@
 ```javascript
 const nox = {
   realName: "Othman",
-  pseudo: "NOX PRIMEEE",
+  pseudo: "NoxCoreDev",
   role: "Développeur",
   languages: ["JavaScript", "TypeScript", "Python", "PHP"],
   frameworks: ["React", "Next.js", "Node.js", "Express"],
